@@ -1,2 +1,2 @@
-*.html linguist-ignore
 * linguist-vendored
+*.html linguist-vendored
